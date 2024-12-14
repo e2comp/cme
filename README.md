@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -89,6 +88,7 @@
 <body>
 
 <header>
+    <!-- Repository name removed here -->
     <h1>Denmark E. Magsisi</h1>
     <p>2nd Year - Section India</p>
 </header>
@@ -180,7 +180,6 @@
         <li>Install a reputable antivirus: Regularly scan your system for threats.</li>
     </ul>
 </section>
-
 <section id="form">
     <h2>Form - About TikTok</h2>
     <div class="form-container">
