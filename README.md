@@ -78,7 +78,7 @@
     <!-- Autobiography Page -->
     <div class="container">
         <h2 class="center">AUTOBIOGRAPHY</h2>
-        <img src="images/autobiography.jpg" alt="Cristine Mae Ella" style="display: block; margin: 0 auto; width: 200px; border-radius: 10px;">
+        <img src="Messenger_creation_A69D5198-46B5-442E-A64C-BD0B84AC509A.jpeg" alt="Cristine Mae Ella" style="display: block; margin: 0 auto; width: 100px; border-radius: 10px;">
         <p>
             Cristine Mae Gubaya Ella was born on February 24, 2004, lives in San Pascual Bacon District Sorsogon City,  a place far from civilization but quite and peaceful. She is currently 20 years old turning 21 this 2025. One of her passion is watching movies and series, action is her favourite genre. “Mistah”, the movie of Robin Padilla is one of  her favourite  and she watched it repeatedly  cause aside from being based on true events, what she appreciates most about this movie is how it reflects unity, compassion for others, and love for one’s country. And we can reflect in this movie the life of a soldier that is willing to sacrifice his life and personal happiness for his beloved nation and the duty he has sworn to uphold.
 
