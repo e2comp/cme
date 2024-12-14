@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -104,10 +104,10 @@ Now, she thinks that choosing criminology as her college course was out of fooli
             4. Accidental plagiarism: Unintentional duplication.
             <p> Punishment Across Countries (IP Laws) </p>
             <ol>
-        <li>1: United States: Copyright infringement penalties include fines (up to $150,000), imprisonment (up to 5 years) and damages.</li>
-        <li>2: European Union: Copyright infringement fines vary by country (e.g., Germany: €50,000; UK: unlimited).</li>
-        <li>3: India: Copyright Act (1957) imposes fines (up to ₹2 lakhs) and imprisonment (up to 3 years).</li>
-        <li>5:  Australia: Copyright Act (1968) imposes fines (up to AU$60,500) and imprisonment (up to 5 years).</li>
+        <li>United States: Copyright infringement penalties include fines (up to $150,000), imprisonment (up to 5 years) and damages.</li>
+        <li>European Union: Copyright infringement fines vary by country (e.g., Germany: €50,000; UK: unlimited).</li>
+        <li>India: Copyright Act (1957) imposes fines (up to ₹2 lakhs) and imprisonment (up to 3 years).</li>
+        <li>Australia: Copyright Act (1968) imposes fines (up to AU$60,500) and imprisonment (up to 5 years).</li>
     </ol>
     <p> Academic Consequences
 1. Expulsion: Permanent or temporary removal from institution.
@@ -123,10 +123,18 @@ Now, she thinks that choosing criminology as her college course was out of fooli
         <iframe width="560" height="315" src="https://youtube.com/embed/n8mbzU0X2nQ" 
             title="YouTube video player" frameborder="0" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
         <p>
-            # Understanding Cyber Threats: Viruses, Malware, Spam, and Antiviruses<br>
-            In today's digital age...
+            Understanding Cyber Threats: Viruses, Malware, Spam and Antiviruses
+In today's digital age, cyber threats have become increasingly common. Every day, millions of users fall victim to online attacks, compromising their personal data, financial information and digital security. This blog post will delve into the world of viruses, malware, spam and antiviruses, providing insights into their definitions, types, impacts and prevention strategies.
             <!-- Content Continues -->
         </p>
+        <p> What are Viruses?*
+Computer viruses are malicious software programs designed to replicate and spread, causing harm to computer systems. They attach themselves to legitimate programs or files, modifying or deleting data. Viruses can: </p>
+<ol>
+        <li>Corrupt files: Damage or delete files, leading to data loss.</li>
+        <li>Steal personal info: Capture sensitive information like passwords or credit card numbers.</li>
+        <li>Disrupt system functionality: Slow down or crash systems.</li>
+    </ol>
+<p> Malware, including adware, spyware, ransomware, and botnets, poses significant risks such as data breaches, financial losses, system downtime, and reputation damage. Spam, which consists of unsolicited messages aimed at phishing, spreading malware, and conducting scams, can be mitigated through strong email filters, verifying sender authenticity, and avoiding suspicious links. Antivirus software serves as a critical defense by providing real-time protection, virus scans, firewalls, and automatic updates. To enhance cybersecurity, it is essential to regularly update software, use strong passwords, back up data, exercise caution on public Wi-Fi, and stay informed about new threats. Overall, awareness and proactive measures are vital for maintaining digital security. </p>
     </div>
     <!-- Form Page -->
     <div class="container">
